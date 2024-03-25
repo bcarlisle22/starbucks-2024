@@ -1,1 +1,4 @@
-# starbucks-2024
+starbucks clone
+- html
+- tailwind css
+- javascript
