@@ -1,4 +1,4 @@
 starbucks clone
-- html
-- tailwind css
-- javascript
+html
+tailwind css
+javascript
