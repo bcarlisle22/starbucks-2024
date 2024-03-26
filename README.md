@@ -1,7 +1,6 @@
 Starbucks Landing Page Clone <br>
 <hr>
-HTML <br>
-Tailwind CSS <br>
-Javascript <br>
+
+```HTML``` ```Tailwind CSS``` ```Javascript```
 
 ![](starbucks-home-one.png)
