@@ -1,4 +1,6 @@
-starbucks clone <br>
-html <br>
-tailwind css <br>
-javascript <br>
+Starbucks clone <br>
+HTML <br>
+Tailwind CSS <br>
+Javascript <br>
+
+![](starbucks-home-one.png)
